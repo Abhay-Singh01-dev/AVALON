@@ -346,7 +346,9 @@ Avalon is built with security and compliance in mind, but organizations should c
 For inquiries about Avalon, enterprise deployments, or partnership opportunities, please contact:
 
 Email: avalon.pharma.ai@gmail.com
+
 linkedin: https://www.linkedin.com/in/abhay-singh-01dev
+
 Website: Coming Soon
 
 -
